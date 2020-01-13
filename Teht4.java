@@ -20,7 +20,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Isto Koulu
+ * @author **** Koulu
  */
 public class Teht4 extends Application {
     
